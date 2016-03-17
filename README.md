@@ -1,6 +1,6 @@
 # Event-Detection-on-e-Newspapers
 The goal of this project is detecting the events to see their progress in a time interval.
-Slide for this project is [here](http://slides.com/damlaozdemir/sentiment-analysis-on-e-newspapers#/).
+Slide for this project is [here](http://slides.com/damlaozdemir/event-detection-on-e-newspapers#/).
 
 #Requirements
 1.[Python 2.7](https://www.python.org/download/releases/2.7/)<br/>
