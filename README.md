@@ -14,3 +14,5 @@ Slide for this project is [here](http://slides.com/damlaozdemir/event-detection-
 2.Query with using Solr.<br />
 3.Classification of data using Naive Bayes algorithm.<br />
 4.Testing results.<br />
+
+learn git!
